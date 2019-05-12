@@ -1,0 +1,131 @@
+2019-05-12 13:13:03.232 ERROR model/init.go:36 连接数据库db_server失败. error: default addr for network '110127.0.0.1:3306db_servertrueAsia' unknown
+2019-05-12 13:13:03.232 ERROR model/init.go:36 连接数据库db_server失败. error: default addr for network '110127.0.0.1:3306db_servertrueAsia' unknown
+2019-05-12 13:13:03.232 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:13:03.234 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:18:16.821 ERROR model/init.go:36 连接数据库失败.dbname:%!(EXTRA string=db_server) error: invalid bool value: %t
+2019-05-12 13:18:16.822 ERROR model/init.go:36 连接数据库失败.dbname:%!(EXTRA string=db_server) error: invalid bool value: %t
+2019-05-12 13:18:16.822 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:18:16.824 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:18:45.993 ERROR model/init.go:36 连接数据库失败.dbname:db_server error: invalid bool value: %t
+2019-05-12 13:18:45.993 ERROR model/init.go:36 连接数据库失败.dbname:db_server error: invalid bool value: %t
+2019-05-12 13:18:45.994 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:18:45.995 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:19:14.221 ERROR model/init.go:35 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:19:14.221 ERROR model/init.go:35 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:19:14.221 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:19:14.223 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:20:12.090 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:20:12.091 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:20:12.091 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:20:12.092 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:30:10.051 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:30:10.052 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:30:10.052 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:30:10.053 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:32:49.121 INFO config/config.go:60 配置文件发生改变:/Users/tommy/WWW/workspace_go/src/github.com/mesment/server/conf/config.yaml
+2019-05-12 13:33:57.804 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:33:57.804 ERROR model/init.go:37 连接数据库失败.dbname:db_server error: invalid URL escape "%sr"
+2019-05-12 13:33:57.804 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:33:57.807 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:34:26.877 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:34:26.879 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:44:26.883 INFO user/update.go:17 Update function called.
+2019-05-12 13:45:31.052 INFO user/update.go:17 Update function called.
+2019-05-12 13:53:57.908 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 13:53:57.910 INFO server/main.go:46 服务器已正常启动
+2019-05-12 13:54:01.864 INFO user/delete.go:16 DELETE ID:4
+2019-05-12 13:54:58.182 INFO user/delete.go:16 DELETE ID:4
+2019-05-12 13:57:18.775 INFO user/update.go:17 Update function called.
+2019-05-12 14:04:59.946 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:04:59.947 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:05:10.145 INFO user/update.go:17 Update function called.
+2019-05-12 14:12:38.832 INFO user/update.go:17 Update function called.
+2019-05-12 14:16:33.479 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:16:33.480 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:18:27.950 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:18:27.951 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:21:09.650 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:21:09.651 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:22:57.089 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:22:57.092 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:22:59.727 INFO user/create.go:33 username:peter,passwd:12345
+2019-05-12 14:23:33.876 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:23:33.877 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:23:38.330 INFO user/create.go:33 username:peter,passwd:12345
+2019-05-12 14:30:18.015 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:30:18.016 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:30:23.180 INFO user/create.go:33 username:peter,passwd:12345
+2019-05-12 14:31:46.584 INFO server/main.go:39 开始监听:127.0.0.1:8080
+2019-05-12 14:31:46.585 INFO server/main.go:46 服务器已正常启动
+2019-05-12 14:31:52.666 INFO user/create.go:33 username:peter,passwd:12345
+2019-05-12 14:32:38.429 INFO user/create.go:33 username:admin,passwd:12345
+2019-05-12 15:18:21.917 INFO server/main.go:40 开始监听:127.0.0.1:8080
+2019-05-12 15:18:21.918 INFO server/main.go:47 服务器已正常启动
+2019-05-12 15:18:40.073 INFO middleware/logging.go:82 5.403ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 15:47:41.183 INFO config/config.go:60 配置文件发生改变:/Users/tommy/WWW/workspace_go/src/github.com/mesment/server/conf/config.yaml
+2019-05-12 15:56:14.885 ERROR middleware/logging.go:74 response body can not unmarshal to model.Response struct, body: `` error: unexpected end of JSON input
+2019-05-12 15:56:14.885 INFO middleware/logging.go:82 179µs         | 127.0.0.1    | POST /login | {code: 10001, message: unexpected end of JSON input}
+2019-05-12 15:56:29.001 INFO server/main.go:40 开始监听:127.0.0.1:8080
+2019-05-12 15:56:29.003 INFO server/main.go:47 服务器已正常启动
+2019-05-12 15:56:32.392 INFO middleware/logging.go:82 6.853ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 15:56:44.946 INFO middleware/logging.go:82 4.637ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 15:58:45.730 INFO middleware/logging.go:82 3.491ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 16:00:02.085 INFO user/create.go:33 username:keven,passwd:admin
+2019-05-12 16:00:02.103 INFO middleware/logging.go:82 18.162ms      | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}
+2019-05-12 16:03:43.126 INFO server/main.go:40 开始监听:127.0.0.1:8080
+2019-05-12 16:03:43.128 INFO server/main.go:47 服务器已正常启动
+2019-05-12 16:03:50.488 INFO middleware/logging.go:82 179µs         | 127.0.0.1    | POST /v1/user | {code: 20103, message: token已失效}
+2019-05-12 16:05:04.483 INFO middleware/logging.go:82 3.558ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 16:05:12.771 INFO middleware/logging.go:82 1.776ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 16:05:25.237 INFO middleware/logging.go:82 2.381ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 16:05:30.960 INFO middleware/logging.go:82 2.557ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 16:05:37.412 INFO middleware/logging.go:82 3.084ms       | 127.0.0.1    | POST /login | {code: 20104, message: 密码错误}
+2019-05-12 16:05:44.878 INFO middleware/logging.go:82 2.684ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:06:25.620 INFO middleware/logging.go:82 193µs         | 127.0.0.1    | POST /v1/user | {code: 20103, message: token已失效}
+2019-05-12 16:06:40.485 INFO middleware/logging.go:82 140µs         | 127.0.0.1    | POST /v1/user | {code: 20103, message: token已失效}
+2019-05-12 16:07:11.909 INFO server/main.go:40 开始监听:127.0.0.1:8080
+2019-05-12 16:07:11.910 INFO server/main.go:47 服务器已正常启动
+2019-05-12 16:07:16.545 INFO user/create.go:33 username:keven,passwd:admin
+2019-05-12 16:07:16.548 INFO middleware/logging.go:82 2.981ms       | 127.0.0.1    | POST /v1/user | {code: 20104, message: 用户已存在}
+2019-05-12 16:07:36.029 INFO user/create.go:33 username:admin,passwd:admin
+2019-05-12 16:07:36.032 INFO middleware/logging.go:82 3.776ms       | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}
+2019-05-12 16:07:52.748 INFO middleware/logging.go:82 3.369ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:08:59.567 INFO middleware/logging.go:82 3.148ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 16:09:25.615 INFO middleware/logging.go:82 2.807ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 16:09:27.275 INFO middleware/logging.go:82 4.441ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 16:09:48.002 INFO server/main.go:40 开始监听:127.0.0.1:8080
+2019-05-12 16:09:48.004 INFO server/main.go:47 服务器已正常启动
+2019-05-12 16:09:51.891 INFO middleware/logging.go:82 210µs         | 127.0.0.1    | GET /v1/user | {code: 20103, message: token已失效}
+2019-05-12 16:10:34.904 INFO middleware/logging.go:82 83µs          | 127.0.0.1    | GET /v1/user | {code: 20103, message: token已失效}
+2019-05-12 16:16:30.310 ERROR middleware/logging.go:74 response body can not unmarshal to model.Response struct, body: `` error: unexpected end of JSON input
+2019-05-12 16:16:30.310 INFO middleware/logging.go:82 241µs         | 127.0.0.1    | GET /login | {code: 10001, message: unexpected end of JSON input}
+2019-05-12 16:16:47.932 INFO middleware/logging.go:82 4.186ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:19:07.108 INFO middleware/logging.go:82 2.591ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:20:47.034 INFO middleware/logging.go:82 1.756ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:21:56.413 INFO middleware/logging.go:82 3.079ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:22:54.671 INFO middleware/logging.go:82 1.623ms       | 127.0.0.1    | POST /login | {code: 0, message: OK}
+2019-05-12 16:23:44.839 INFO middleware/logging.go:82 3.078ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}
+2019-05-12 16:24:54.342 INFO user/create.go:33 username:mesment,passwd:mesment
+2019-05-12 16:24:54.352 INFO middleware/logging.go:82 10.572ms      | 127.0.0.1    | POST /v1/user | {code: 0, message: OK}
+2019-05-12 16:38:12.703 INFO server/main.go:41 开始监听:127.0.0.1:8080
+2019-05-12 16:38:12.704 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:38:13.709 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:38:14.714 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:38:15.729 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:38:16.733 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:38:17.738 FATAL server/main.go:46 服务器响应异常:%s error: 连接服务器失败
+2019-05-12 16:39:34.363 INFO server/main.go:41 开始监听:127.0.0.1:8080
+2019-05-12 16:39:34.364 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:39:35.370 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:39:36.375 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:39:37.376 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:39:38.381 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:39:39.386 FATAL server/main.go:46 服务器响应异常: error: 连接服务器失败
+2019-05-12 16:44:06.656 INFO server/main.go:41 开始监听:127.0.0.1:8080
+2019-05-12 16:44:06.656 INFO server/main.go:57 Start to listening the incoming requests on https address: :8081
+2019-05-12 16:44:06.657 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:44:07.659 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:44:08.662 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:44:09.664 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:44:10.670 INFO util/ping.go:27 Ping服务器失败,1秒后重新尝试
+2019-05-12 16:44:11.671 FATAL server/main.go:46 服务器响应异常: error: 连接服务器失败

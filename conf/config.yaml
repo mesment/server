@@ -1,0 +1,34 @@
+runmode: debug                # 开发模式, debug, release
+server_addr: 127.0.0.1:8080   #http地址端口号
+server_name: server           #server名
+url: http://127.0.0.1:8080    #健康检查请求的地址和端口号
+max_ping_count: 5             #健康检查最大尝试次数
+jwt_secret: Rtg8BPK234df7&^%$#@%&**^%#dsdsdfsfsfdsfdf   #token加密字符串
+
+tls:
+  addr: :8081
+  cert: conf/server.crt
+  key: conf/server.key
+
+db:
+  db_name: db_server
+  addr: 127.0.0.1:3306
+  username: root
+  password: root
+
+docker_db:
+  db_name: db_server
+  addr: 127.0.0.1:3306
+  username: root
+  password: root
+
+
+log:
+  writers: file,stdout      #同时输出到日志文件和标准输出
+  log_level: DEBUG          #日志级别DEBUG、INFO、WARN、 ERROR、FATAL
+  log_file: log/server.log  #日志文件
+  log_format_text: true    #JSON 或者plaintext，true 会输出plaintext格式，false会输出JSON 格式
+  rolling_policy: size       #daily, size daily根据天转存，size根据大小转存
+  log_rotate_date: 1        #转存时间配合rollingPolicy: daily使用
+  log_rotate_size: 1        #转存大小配合rollingPolicy: size使用 单位为M
+  log_backup_count: 7    #当日志文件达到转存标准时，log会将该日志文件进行压缩备份，这里指定了备份文件的最大个数
